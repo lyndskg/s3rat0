@@ -151,11 +151,11 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="feat"></a>
 ### <ins>Key Features</ins>:
 
-1. **Track History Analysis**: 
- - <ins>Play Count</ins>: Display the most played tracks across different sets, helping DJs understand their go-to songs.
- - <ins>BPM Analysis</ins>: Analyze the average BPM of tracks played, including BPM trends within sets.
- - <ins>Key Distribution</ins>: Visualize the musical keys used in sets, allowing DJs to see how often they transition between keys.
- - <ins>Genre Breakdown</ins>: Categorize tracks by genre to identify trends in musical style and diversity in performances.
+**Track History Analysis**: 
+> - <ins><em>Play Count</em></ins>: Display the most played tracks across different sets, helping DJs understand their go-to songs.
+> - <ins>BPM Analysis</ins>: Analyze the average BPM of tracks played, including BPM trends within sets.
+> - <ins>Key Distribution</ins>: Visualize the musical keys used in sets, allowing DJs to see how often they transition between keys.
+> - <ins>Genre Breakdown</ins>: Categorize tracks by genre to identify trends in musical style and diversity in performances.
 
 2. **Set Analysis:**
 > - <ins>Set Composition</ins>: Break down individual DJ sets, showing detailed statistics like track order, BPM transitions, and key changes.
