@@ -154,7 +154,6 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Event Organizers** _who want to track the success of DJ performances and understand audience preferences._
 
 
-&nbsp;
 
 <h1 align="center"></h1>
 
