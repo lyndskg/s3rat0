@@ -204,7 +204,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 ## Technologies and Programming Languages
 
 
-### i. <ins>Frontend</ins>: 
+### I. <ins>Frontend</ins>: 
 **Frontend Framework:** `React.js`
 > - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
 > - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
@@ -227,9 +227,9 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
 > - **Key Features:** Declarative routing, dynamic routing, nested routes.
 
-------- 
+&nbsp;
 
-### ii. <ins>Backend</ins>: 
+### II. <ins>Backend</ins>: 
 **Backend Framework:** `Python` (`Django`)
 > - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
 > - **Key Features:** Built-in admin interface, robust ORM, middleware support, Django Rest Framework (DRF) for API development.
@@ -261,6 +261,9 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Key Features:** Load balancing, SSL/TLS termination, caching.
 
 
+&nbsp;
+
+
 ### <ins>Deployment</ins>: 
 **Platform-as-a-Service (PaaS):** `Heroku`
 > - **Purpose:** Platform-as-a-Service (PaaS) for deploying the `s3rat0` application, offering easy integration with `PostgreSQL` and automated scaling.
@@ -273,6 +276,9 @@ This tool provides deep insights by analyzing historical performance data (inclu
 **Continuous Integration/Continuous Deployment (CI/CD):** `GitHub Actions`
 > - **Purpose:** Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate testing, build, and deployment processes.
 > - **Key Features:** Workflow automation, integration with `GitHub` repositories, support for multiple languages and frameworks.
+
+&nbsp;
+
 
 ### <ins>Security</ins>:
 **Authenticaiton & Authorization:** `Django Allauth`
@@ -288,6 +294,9 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Key Features:** Environment-specific configuration, improved security practices.
 
 
+&nbsp;
+
+
 ### <ins>Monitoring & Analytics</ins>:
 **Error Tracking & Performance Monitoring:** `Sentry`
 > - **Purpose:** Error tracking and performance monitoring to identify and resolve issues in the `s3rat0` application.
@@ -300,6 +309,9 @@ This tool provides deep insights by analyzing historical performance data (inclu
 **Platform Metrics:** `Heroku Metrics`
 > - **Purpose:** Monitoring application performance, response times, and resource usage directly within the `Heroku` dashboard.
 > - **Key Features:** Built-in application metrics, auto-scaling triggers, alerts and notifications.
+
+&nbsp;
+
 
 
 ### <ins>Version Control</ins>: 
