@@ -151,28 +151,28 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="feat"></a>
 ### <ins>Key Features</ins>:
 
-**Track History Analysis**: 
-> - <ins><em>Play Count</em></ins>: Display the most played tracks across different sets, helping DJs understand their go-to songs.
+**<em>Track History Analysis</em>**
+> - <ins>Play Count</ins>: Display the most played tracks across different sets, helping DJs understand their go-to songs.
 > - <ins>BPM Analysis</ins>: Analyze the average BPM of tracks played, including BPM trends within sets.
 > - <ins>Key Distribution</ins>: Visualize the musical keys used in sets, allowing DJs to see how often they transition between keys.
 > - <ins>Genre Breakdown</ins>: Categorize tracks by genre to identify trends in musical style and diversity in performances.
 
-2. **Set Analysis:**
+**<em>Set Analysis</em>**
 > - <ins>Set Composition</ins>: Break down individual DJ sets, showing detailed statistics like track order, BPM transitions, and key changes.
 > - <ins>Performance Heatmap</ins>: Visualize the intensity of the set based on BPM and track energy, highlighting peak moments.
 > - <ins>Track Transition Analysis</ins>: Evaluate how smoothly tracks transition within a set based on key and BPM compatibility.
 
-3. **Performance Trends:**
+ **<em>Performance Trends</em>**
 > - <ins>Longitudinal Analysis</ins>: Track performance metrics over time to identify evolving trends in track selection, BPM, and key changes.
 > - <ins>Audience Engagement Correlation</ins>: (Optional) Integrate audience feedback or interaction data to correlate with performance metrics.
 > - <ins>Set Progression Analysis</ins>: Analyze how sets have evolved over time, showing shifts in musical style, track length, and performance dynamics.
 
-4. **Report Generation:**
+**<em>Report Generation</em>**
 > - <ins>Customizable Reports</ins>: Allow users to generate detailed reports with specific metrics such as top tracks, genre distribution, and set analysis.
 > - <ins>Export Options</ins>: Provide options to export reports in PDF or CSV formats for easy sharing and further analysis.
 > - <ins>Automated Report Scheduling</ins>: Enable users to schedule automated report generation, delivering insights after every performance.
 
-5. **User Authentication and Data Management:**
+**<em>User Authentication and Data Management</em>**
 > - <ins>Secure User Accounts</ins>: Allow users to create and manage accounts, ensuring their data is secure and accessible only to them.
 > - <ins>Data Upload and Management</ins>: Provide a user-friendly interface for uploading and managing Serato history files. Users can update, delete, or filter their data as needed.
 > - <ins>Data Privacy and Security</ins>: Implement robust data protection measures to ensure user data is stored and processed securely.
