@@ -259,7 +259,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **<ins>Key Features</ins>:**  Pre-fork worker model, easy integration with `Nginx`, reliable performance.
 
 **_Reverse Proxy Server:_** `Nginx`
-> -**<ins>Purpose</ins>:**  Acting as a reverse proxy server to serve static files, manage incoming HTTP requests, and improve security and performance.
+> - **<ins>Purpose</ins>:**  Acting as a reverse proxy server to serve static files, manage incoming HTTP requests, and improve security and performance.
 > - **<ins>Key Features</ins>:** Load balancing, SSL/TLS termination, caching.
 
 
