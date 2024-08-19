@@ -156,7 +156,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 <p align="right">(<a href="#ser">back to top</a>)</p>
-
+---------------------
 
 <a name="feat"></a>
 ## Key Features
@@ -238,7 +238,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
   > - As the primary database, `PostgreSQL` will handle the relational data model required for user data, track history, and analytics storage.
 >   - `SQLite` is a lightweight database option for local development and testing.
 > - **Key Features:**
-> > - `PostgreSQL`: ACID compliance, full-text search, JSON support, scalability.
+> > - `PostgreSQL`: ACID compliance, full-text search, `JSON` support, scalability.
   > > - Advanced indexing, robust transaction support, data integrity, and security features.
 > >   - `SQLite`: File-based storage, no server setup required, suitable for small-scale data during development.
 
@@ -262,8 +262,8 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### <ins>Deployment</ins>: 
 **Platform-as-a-Service (PaaS):** `Heroku`
-> - **Purpose:** Platform-as-a-Service (PaaS) for deploying the s3rat0 application, offering easy integration with PostgreSQL and automated scaling.
-> - **Key Features:** Git-based deployment, managed databases, environment variables, buildpacks for Python.
+> - **Purpose:** Platform-as-a-Service (PaaS) for deploying the `s3rat0` application, offering easy integration with `PostgreSQL` and automated scaling.
+> - **Key Features:** `Git`-based deployment, managed databases, environment variables, buildpacks for `Python`.
 
 **Containerization:** `Docker` 
 > - **Purpose:** Containerization of the application for consistent deployment across various environments, making it easier to manage dependencies and configurations.
@@ -271,7 +271,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 **Continuous Integration/Continuous Deployment (CI/CD):** `GitHub Actions`
 > - **Purpose:** Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate testing, build, and deployment processes.
-> - **Key Features:** Workflow automation, integration with GitHub repositories, support for multiple languages and frameworks.
+> - **Key Features:** Workflow automation, integration with `GitHub` repositories, support for multiple languages and frameworks.
 
 ### <ins>Security</ins>:
 **Authenticaiton & Authorization:** `Django Allauth`
@@ -289,15 +289,15 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### <ins>Monitoring & Analytics</ins>:
 **Error Tracking & Performance Monitoring:** `Sentry`
-> - **Purpose:** Error tracking and performance monitoring to identify and resolve issues in the s3rat0 application.
-> - **Key Features:** Real-time alerts, performance monitoring, integration with Django and React.
+> - **Purpose:** Error tracking and performance monitoring to identify and resolve issues in the `s3rat0` application.
+> - **Key Features:** Real-time alerts, performance monitoring, integration with `Django` and `React`.
 
 **Metrics & Logging (Optional):** `Grafana`
-> - **Purpose:** Visualizing metrics and logs to monitor the health and performance of the s3rat0 application.
+> - **Purpose:** Visualizing metrics and logs to monitor the health and performance of the `s3rat0` application.
 > - **Key Features:** Custom dashboards, integration with various data sources, real-time monitoring.
 
 **Platform Metrics:** `Heroku Metrics`
-> - **Purpose:** Monitoring application performance, response times, and resource usage directly within the Heroku dashboard.
+> - **Purpose:** Monitoring application performance, response times, and resource usage directly within the `Heroku` dashboard.
 > - **Key Features:** Built-in application metrics, auto-scaling triggers, alerts and notifications.
 
 
@@ -313,27 +313,63 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### <ins>IDEs & Editors</ins>
 **Frontend Development:**
-> - VS Code
-> - WebStorm
+- `Visual Studio Code (VS Code)`
+> - **Purpose:**
+> - **Key Features:**
+
+- `WebStorm`
+> - **Purpose:**
+> - **Key Features:**
 
 **Backend Development:**
-> - PyCharm
-> - Django Admin Interface
+- `PyCharm`
+> - **Purpose:**
+> - **Key Features:**
+
+- `Visual Studio Code (VS Code)`
+> - **Purpose:**
+> - **Key Features:**
+
+- `Django Admin Interface`
+> - **Purpose:**
+> - **Key Features:**
+
 
 **Database Management:**
-> - pgAdmin
-> - DBeaver
+- `pgAdmin`
+> - **Purpose:**
+> - **Key Features:**
+
+- `DBeaver`
+> - **Purpose:**
+> - **Key Features:**
+
 
 **Version Control & Collaboration:**
-> - Git
-> - GitHub
-> - GitKraken
+- `Git`
+> - **Purpose:**
+> - **Key Features:**
+
+- `GitHub`
+> - **Purpose:**
+> - **Key Features:**
+
+- `GitKraken`
+> - **Purpose:**
+> - **Key Features:**
 
 **Containerization & Deployment:**
-> - Docker Desktop
-> - Heroku CLI
-> - Kubernetes (Optional)
+- `Docker Desktop`
+> - **Purpose:**
+> - **Key Features:**
 
+- `Heroku CLI`
+> - **Purpose:**
+> - **Key Features:**
+
+- `Kubernetes` (Optional)
+> - **Purpose:**
+> - **Key Features:**
 
 &nbsp;
 
