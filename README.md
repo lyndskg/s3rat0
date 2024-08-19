@@ -207,24 +207,6 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="tech"></a>
 ## Technologies and Programming Languages
 
-### <ins>IDEs & Editors</ins>
-- Frontend Development:
-> - VS Code
-> - WebStorm
-- Backend Development:
-> - PyCharm
-> - Django Admin Interface
-- Database Management:
-> - pgAdmin
-> - DBeaver
-- Version Control & Collaboration:
-> - Git
-> - GitHub
-> - GitKraken
-- Containerization & Deployment
-> - Docker Desktop
-> - Heroku CLI
-> - Kubernetes (Optional)
 
 ### <ins>Frontend</ins>: 
 **Frontend Framework:** `React.js`
@@ -308,6 +290,36 @@ Version Control:
 Git & GitHub
 Purpose: Version control for tracking changes, collaborating with other developers, and maintaining a history of the project’s development.
 Key Features: Branching, pull requests, code review, issue tracking.
+
+
+&nbsp; 
+&nbsp;
+
+### <ins>IDEs & Editors</ins>
+**Frontend Development:**
+> - VS Code
+> - WebStorm
+
+**Backend Development:**
+> - PyCharm
+> - Django Admin Interface
+
+**Database Management:**
+> - pgAdmin
+> - DBeaver
+
+**Version Control & Collaboration:**
+> - Git
+> - GitHub
+> - GitKraken
+
+**Containerization & Deployment:**
+> - Docker Desktop
+> - Heroku CLI
+> - Kubernetes (Optional)
+
+
+&nbsp;
 
 ---------------------
 
