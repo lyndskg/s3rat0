@@ -172,7 +172,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - <ins>Export Options</ins>: Provide options to export reports in PDF or CSV formats for easy sharing and further analysis.
 > - <ins>Automated Report Scheduling</ins>: Enable users to schedule automated report generation, delivering insights after every performance.
 
-5.** User Authentication and Data Management:**
+5. **User Authentication and Data Management:**
 > - <ins>Secure User Accounts</ins>: Allow users to create and manage accounts, ensuring their data is secure and accessible only to them.
 > - <ins>Data Upload and Management</ins>: Provide a user-friendly interface for uploading and managing Serato history files. Users can update, delete, or filter their data as needed.
 > - <ins>Data Privacy and Security</ins>: Implement robust data protection measures to ensure user data is stored and processed securely.
