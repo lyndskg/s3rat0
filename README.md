@@ -145,14 +145,6 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 `s3rat0` is aimed towards helping DJs refine their craft, optimize their setlist(s), understand audience preference, and make data-driven decisions that improve their overall performance and enhance audience engagement. 
 
-
-### <ins>Target Audience</ins>:
-- **Professional DJs:** Looking to optimize their performances and gain insights into their DJing patterns.
-- **Aspiring DJs:** Interested in understanding and improving their track selection, transitions, and overall set composition.
-- **Music Producers:** Who also DJ and want to analyze how their tracks perform in live settings.
-- **Event Organizers:** Who want to track the success of DJ performances and understand audience preferences.
-
-
 &nbsp;
 
 
@@ -187,6 +179,15 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 
 &nbsp;
+
+
+### <ins>Target Audience</ins>:
+- **Professional DJs:** Looking to optimize their performances and gain insights into their DJing patterns.
+- **Aspiring DJs:** Interested in understanding and improving their track selection, transitions, and overall set composition.
+- **Music Producers:** Who also DJ and want to analyze how their tracks perform in live settings.
+- **Event Organizers:** Who want to track the success of DJ performances and understand audience preferences.
+
+
 
 <p align="right">(<a href="#bs">back to top</a>)</p>
 
