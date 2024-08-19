@@ -137,7 +137,7 @@
 ## Project Overview 
 
 ### <ins>Objective</ins>:
-`s3rat0` is a web-based dashboard designed by a DJ to allow fellow DJs to analyze their Serato DJ sets. 
+Designed by a DJ for fellow DJs, `s3rat0` is a web-based dashboard tool for analyzing Serato DJ sets. 
 
 This tool provides deep insights by analyzing historical performance data (including most played tracks, average BPM, key trends, and more to help DJs understand their track selections, BPM ranges, key transitions, and overall performance trends.
 
