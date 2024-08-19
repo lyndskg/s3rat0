@@ -154,7 +154,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Music Producers** _who also DJ and want to analyze how their tracks perform in live settings._
 > - **Event Organizers** _who want to track the success of DJ performances and understand audience preferences._
 
--
+<h4 align="center"><ins><strong><em>* analyze, optimize & elevate your Serato experience with comprehensive set insights * </em></strong></ins></h4>
 
 &nbsp;
 
