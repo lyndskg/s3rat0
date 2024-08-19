@@ -156,7 +156,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - <ins>BPM Analysis</ins>: Analyze the average BPM of tracks played, including BPM trends within sets.
 > - <ins>Key Distribution</ins>: Visualize the musical keys used in sets, allowing DJs to see how often they transition between keys.
 > - <ins>Genre Breakdown</ins>: Categorize tracks by genre to identify trends in musical style and diversity in performances.
-
+> 
 **<em>Set Analysis</em>**
 > - <ins>Set Composition</ins>: Break down individual DJ sets, showing detailed statistics like track order, BPM transitions, and key changes.
 > - <ins>Performance Heatmap</ins>: Visualize the intensity of the set based on BPM and track energy, highlighting peak moments.
