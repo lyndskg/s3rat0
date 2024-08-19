@@ -136,7 +136,7 @@
 <a name="view"></a>
 ## Project Overview 
 
-### Objective:
+### <ins>Objective</ins>:
 `s3rat0` is a web-based dashboard designed by a DJ to allow fellow DJs to analyze their Serato DJ sets. 
 
 This tool provides deep insights by analyzing historical performance data (including most played tracks, average BPM, key trends, and more to help DJs understand their track selections, BPM ranges, key transitions, and overall performance trends.
@@ -147,11 +147,11 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 &nbsp;
 
-### Target Audience:
+### <ins>Target Audience</ins>:
 
 - **Professional DJs:** Looking to optimize their performances and gain insights into their DJing patterns.
--** Aspiring DJs:** Interested in understanding and improving their track selection, transitions, and overall set composition.
--** Music Producers: **Who also DJ and want to analyze how their tracks perform in live settings.
+- ** Aspiring DJs:** Interested in understanding and improving their track selection, transitions, and overall set composition.
+- ** Music Producers: **Who also DJ and want to analyze how their tracks perform in live settings.
 - **Event Organizers:** Who want to track the success of DJ performances and understand audience preferences.
 
 
