@@ -254,8 +254,23 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="flow"></a>
 ## Basic Workflow Guide
 
+1. **User Registration & Login:**
+- Users sign up for an account, log in, and securely manage their credentials using `JWT`for `C++`.
+
+2. **Uploading Track History:**
+- Users upload Serato history files through the frontend, which are then processed by the `C++` backend and stored in `SQLite` or `PostgreSQL`.
+
+3. **Exploring Analytics:**
+- The frontend requests data from the backend API, and users can view various analytics on track history, BPM, and key distribution.
+
+4. **Generating Reports:**
+- Users can generate custom reports based on their DJ sets, which are processed by the backend and available for download in `PDF`/`CSV` formats.
+
+5.**Monitoring & Optimization:**
+- The application is monitored using `Prometheus` and `Grafana`, ensuring it runs smoothly and efficiently.
 
 &nbsp; 
+
 <p align="right">(<a href="#bs">back to top</a>)</p>
 
 
