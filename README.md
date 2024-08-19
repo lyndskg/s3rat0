@@ -228,14 +228,14 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### <ins>Frontend</ins>: 
 **Frontend Framework:** `React.js`
-- **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
-- **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
+> - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
+> - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
 
 **Data Visualization:** `Chart.js` or `D3.js`
-- **Purpose:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
--  **Key Features:**
-> - `Chart.js`: Pre-built chart types for easy implementation.
-> - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
+> - **Purpose:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
+> -  **Key Features:**
+  > - `Chart.js`: Pre-built chart types for easy implementation.
+  > - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
 
 Styling: `Material-UI`
  - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
