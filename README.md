@@ -208,92 +208,92 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### I. <ins>Frontend</ins>: 
 **_Frontend Framework_:** `React.js`
-> - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
-> - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
+> - **<ins>Purpose</ins>:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
+> - **<ins>Key Features</ins>:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
 
 **_Data Visualization_:** `Chart.js` or `D3.js`
-> - **Purpose:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
-> -  **Key Features:**
+> - **<ins>Purpose</ins>:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
+> - **<ins>Key Features</ins>:**
 > > - `Chart.js`: Pre-built chart types for easy implementation.
 > > - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
 
 **_Styling_:** `Material-UI`
-> - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
-> - **Key Features:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
+> - **<ins>Purpose</ins>:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
+> - **<ins>Key Features</ins>:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
 
 **_HTTP Requests_:** `Axios`
-> - **Purpose:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
-> - **Key Features:** Promise-based API, support for interceptors, easy to use for making API calls.
+> - **<ins>Purpose</ins>:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
+> - **<ins>Key Features</ins>:** Promise-based API, support for interceptors, easy to use for making API calls.
 
 **_Routing_:** `React Router`
-> - **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
-> - **Key Features:** Declarative routing, dynamic routing, nested routes.
+> - **<ins>Purpose</ins>:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
+> - **<ins>Key Features</ins>:** Declarative routing, dynamic routing, nested routes.
 
 &nbsp;
 
 
 ### II. <ins>Backend</ins>: 
 **_Backend Framework_:** `Python` (`Django`)
-> - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
-> - **Key Features:** Built-in admin interface, robust ORM, middleware support, Django Rest Framework (DRF) for API development.
+> - **<ins>Purpose</ins>:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
+> - **<ins>Key Features</ins>:** Built-in admin interface, robust ORM, middleware support, Django Rest Framework (DRF) for API development.
 
 **_Database_:** `PostgreSQL` and `SQLite` (For Development)
-> - **Purpose:** Relational database management systems for storing user data, track history, analytics results, and generated reports.
+> - **<ins>Purpose</ins>:** Relational database management systems for storing user data, track history, analytics results, and generated reports.
   > - As the primary database, `PostgreSQL` will handle the relational data model required for user data, track history, and analytics storage.
 >   - `SQLite` is a lightweight database option for local development and testing.
-> - **Key Features:**
+> - **<ins>Key Features</ins>:**
 > > - `PostgreSQL`: ACID compliance, full-text search, `JSON` support, scalability.
   > > - Advanced indexing, robust transaction support, data integrity, and security features.
 > >   - `SQLite`: File-based storage, no server setup required, suitable for small-scale data during development.
 
 **_Background Tasks _(Optional):** `Celery with Redis` 
-> - **Purpose:** Handling background tasks like report generation, data processing, and sending notifications.
-> - **Key Features**: Distributed task queue, support for real-time operations, fault tolerance.
+> - **<ins>Purpose</ins>:** Handling background tasks like report generation, data processing, and sending notifications.
+> - **<ins>Key Features</ins>:** Distributed task queue, support for real-time operations, fault tolerance.
 
 **_API Development_:** `Django Rest Framework (DRF)`
-> - **Purpose:** Building RESTful APIs to handle communication between the frontend and backend, such as file uploads, data retrieval, and report generation.
-> - **Key Features**: Serialization, viewsets, authentication and permissions, browsable API.
+> - **<ins>Purpose</ins>:** Building RESTful APIs to handle communication between the frontend and backend, such as file uploads, data retrieval, and report generation.
+> - **<ins>Key Features</ins>:**  Serialization, viewsets, authentication and permissions, browsable API.
 
 **_Application Server_:** `Gunicorn`
-> - **Purpose:** Serving the `Django` application in a production environment, acting as the application server.
-> - **Key Features:** Pre-fork worker model, easy integration with `Nginx`, reliable performance.
+> - **<ins>Purpose</ins>:** Serving the `Django` application in a production environment, acting as the application server.
+> - **<ins>Key Features</ins>:**  Pre-fork worker model, easy integration with `Nginx`, reliable performance.
 
 **_Reverse Proxy Server:_** `Nginx`
-> - **Purpose:** Acting as a reverse proxy server to serve static files, manage incoming HTTP requests, and improve security and performance.
-> - **Key Features:** Load balancing, SSL/TLS termination, caching.
+> -**<ins>Purpose</ins>:**  Acting as a reverse proxy server to serve static files, manage incoming HTTP requests, and improve security and performance.
+> - **<ins>Key Features</ins>:** Load balancing, SSL/TLS termination, caching.
 
 
 &nbsp;
 
 
 ### III. <ins>Deployment</ins>: 
-**Platform-as-a-Service (PaaS):** `Heroku`
-> - **Purpose:** Platform-as-a-Service (PaaS) for deploying the `s3rat0` application, offering easy integration with `PostgreSQL` and automated scaling.
-> - **Key Features:** `Git`-based deployment, managed databases, environment variables, buildpacks for `Python`.
+**_Platform-as-a-Service (PaaS)_:** `Heroku`
+> - **<ins>Purpose</ins>:**  Platform-as-a-Service (PaaS) for deploying the `s3rat0` application, offering easy integration with `PostgreSQL` and automated scaling.
+> - **<ins>Key Features</ins>:** `Git`-based deployment, managed databases, environment variables, buildpacks for `Python`.
 
-**Containerization:** `Docker` 
-> - **Purpose:** Containerization of the application for consistent deployment across various environments, making it easier to manage dependencies and configurations.
-> - **Key Features:** Container orchestration, portability, isolation of services.
+**_Containerization:_** `Docker` 
+> - **<ins>Purpose</ins>:** Containerization of the application for consistent deployment across various environments, making it easier to manage dependencies and configurations.
+> - **<ins>Key Features</ins>:** Container orchestration, portability, isolation of services.
 
-**Continuous Integration/Continuous Deployment (CI/CD):** `GitHub Actions`
-> - **Purpose:** Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate testing, build, and deployment processes.
-> - **Key Features:** Workflow automation, integration with `GitHub` repositories, support for multiple languages and frameworks.
+**_Continuous Integration/Continuous Deployment (CI/CD)_:** `GitHub Actions`
+> - **<ins>Purpose</ins>:** Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate testing, build, and deployment processes.
+> - **<ins>Key Features</ins>:** Workflow automation, integration with `GitHub` repositories, support for multiple languages and frameworks.
 
 &nbsp;
 
 
 ### IV. <ins>Security</ins>:
-**Authenticaiton & Authorization:** `Django Allauth`
-> - **Purpose:** Handling user authentication, registration, and account management, including social authentication if needed.
-> - **Key Features:** Pre-built views and forms for user authentication, secure password management, social account support.
+**_Authentication & Authorization:_** `Django Allauth`
+> - **<ins>Purpose</ins>:** Handling user authentication, registration, and account management, including social authentication if needed.
+> - **<ins>Key Features</ins>:** Pre-built views and forms for user authentication, secure password management, social account support.
 
 **_Data Encryption_:** `SSL/TLS`
-> - **Purpose:** Ensuring secure communication between the client and server by encrypting data in transit.
-> - **Key Features:** Data encryption, secure transmission, certificate management.
+> - **<ins>Purpose</ins>:** Ensuring secure communication between the client and server by encrypting data in transit.
+> - **<ins>Key Features</ins>:**  Data encryption, secure transmission, certificate management.
 
-**Configuration Management:** Environment Variables (`dotenv`)
-> - **Purpose:** Managing sensitive information like API keys, database credentials, and secret keys securely without hardcoding them into the application.
-> - **Key Features:** Environment-specific configuration, improved security practices.
+**_Configuration Management:_** Environment Variables (`dotenv`)
+> - **<ins>Purpose</ins>:** Managing sensitive information like API keys, database credentials, and secret keys securely without hardcoding them into the application.
+> - **<ins>Key Features</ins>:**  Environment-specific configuration, improved security practices.
 
 
 &nbsp;
@@ -301,16 +301,16 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### V. <ins>Monitoring & Analytics</ins>:
 **_Error Tracking & Performance Monitoring_:** `Sentry`
-> - **Purpose:** Error tracking and performance monitoring to identify and resolve issues in the `s3rat0` application.
-> - **Key Features:** Real-time alerts, performance monitoring, integration with `Django` and `React`.
+> - **<ins>Purpose</ins>:** Error tracking and performance monitoring to identify and resolve issues in the `s3rat0` application.
+> - **<ins>Key Features</ins>:** Real-time alerts, performance monitoring, integration with `Django` and `React`.
 
 **_Metrics & Logging_ (Optional):** `Grafana`
-> - **Purpose:** Visualizing metrics and logs to monitor the health and performance of the `s3rat0` application.
-> - **Key Features:** Custom dashboards, integration with various data sources, real-time monitoring.
+> -**<ins>Purpose</ins>:** Visualizing metrics and logs to monitor the health and performance of the `s3rat0` application.
+> - **<ins>Key Features</ins>:** Custom dashboards, integration with various data sources, real-time monitoring.
 
 **_Platform Metrics_:** `Heroku Metrics`
-> - **Purpose:** Monitoring application performance, response times, and resource usage directly within the `Heroku` dashboard.
-> - **Key Features:** Built-in application metrics, auto-scaling triggers, alerts and notifications.
+> - **<ins>Purpose</ins>:** Monitoring application performance, response times, and resource usage directly within the `Heroku` dashboard.
+> - **<ins>Key Features</ins>:** Built-in application metrics, auto-scaling triggers, alerts and notifications.
 
 &nbsp;
 
@@ -318,8 +318,8 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### VI. <ins>Version Control</ins>: 
 `Git` & `GitHub`
-> - **Purpose:** Version control for tracking changes, collaborating with other developers, and maintaining a history of the project’s development.
-> - **Key Features:** Branching, pull requests, code review, issue tracking.
+> - **<ins>Purpose</ins>:** Version control for tracking changes, collaborating with other developers, and maintaining a history of the project’s development.
+> - **<ins>Key Features</ins>:** Branching, pull requests, code review, issue tracking.
 
 
 &nbsp; 
@@ -329,65 +329,64 @@ This tool provides deep insights by analyzing historical performance data (inclu
 ## IDEs & Editors
 _**Frontend Development:**_
 - `Visual Studio Code (VS Code)`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 - `WebStorm`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 
 _**Backend Development:**_
 - `PyCharm`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 - `Visual Studio Code (VS Code)`
-> - **Purpose:**
-> - **Key Features:**
-
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 - `Django Admin Interface`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 
 
 _**Database Management:**_
 - `pgAdmin`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 - `DBeaver`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 
 
 _**Version Control & Collaboration:**_
 - `Git`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 - `GitHub`
 > - **Purpose:**
-> - **Key Features:**
+> - **<ins>Key Features</ins>:**
 
 - `GitKraken`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 **Containerization & Deployment:**
 - `Docker Desktop`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 - `Heroku CLI`
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
 - `Kubernetes` (Optional)
-> - **Purpose:**
-> - **Key Features:**
+> - **<ins>Purpose</ins>:**
+> - **<ins>Key Features</ins>:**
 
    
 <p align="right">(<a href="#ser">back to top</a>)</p>
