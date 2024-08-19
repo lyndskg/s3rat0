@@ -153,6 +153,8 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Music Producers** _who also DJ and want to analyze how their tracks perform in live settings._
 > - **Event Organizers** _who want to track the success of DJ performances and understand audience preferences._
 
+<p align="right">(<a href="#ser">back to top</a>)</p>
+
 <h1 align="center"></h1>
 
 &nbsp;
@@ -194,7 +196,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
 
@@ -342,7 +344,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 ### <ins>Current Notes and/or Issues</ins>: 
 
    
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
 
@@ -354,7 +356,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 
 ---------------------
@@ -364,7 +366,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 &nbsp;
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
 <a name="io"></a>
@@ -408,7 +410,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 &nbsp; 
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 
 
@@ -417,7 +419,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="plus"></a>
 ## Future Enhancements:
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
   
@@ -435,7 +437,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 ### Build and Run: 
 
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 
 ---------------
@@ -449,7 +451,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 &nbsp;
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 <a name="appl"></a>
 ### Practical Applications:
@@ -457,7 +459,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 &nbsp;
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
 
@@ -468,7 +470,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Architecture:** Apple arm64
 
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
 <a name="give"></a>
@@ -480,7 +482,7 @@ We welcome contributions from the community to help improve `s3rat0` and make it
 - **Donate:** DON'T!
 
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
 <a name="bye"></a>
@@ -488,7 +490,7 @@ We welcome contributions from the community to help improve `s3rat0` and make it
 
 &nbsp;
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------------
 <a name="contact"></a>
@@ -497,9 +499,9 @@ We welcome contributions from the community to help improve `s3rat0` and make it
 
 Lyndsey Gu - [@lyndskg](https://twitter.com/lyndskg) - lyndsey.gu@gmail.com
 
-Project Link: [https://github.com/lyndskg/black-scholes-cpp](https://github.com/lyndskg/black-scholes-cpp)
+Project Link: [https://github.com/lyndskg/s3rat0](https://github.com/lyndskg/s3rat0)
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------------
 <a name="ack"></a>
@@ -512,7 +514,7 @@ Project Link: [https://github.com/lyndskg/black-scholes-cpp](https://github.com/
 2. **Online resources:**
 >
 
-<p align="right">(<a href="#bs">back to top</a>)</p>
+<p align="right">(<a href="#ser">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
