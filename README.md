@@ -287,6 +287,8 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="install"></a>
 ## User Installation
 
+- Clone the repository from GitHub.
+- 
 <a name="prereq"></a>
 ### System Prerequisites:
 
