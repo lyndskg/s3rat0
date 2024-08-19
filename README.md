@@ -207,28 +207,49 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="tech"></a>
 ## Technologies and Programming Languages
 
+### <ins>IDEs & Editors</ins>
+- Frontend Development:
+> - VS Code
+> - WebStorm
+- Backend Development:
+> - PyCharm
+> - Django Admin Interface
+- Database Management:
+> - pgAdmin
+> - DBeaver
+- Version Control & Collaboration:
+> - Git
+> - GitHub
+> - GitKraken
+- Containerization & Deployment
+> - Docker Desktop
+> - Heroku CLI
+> - Kubernetes (Optional)
+
 ### <ins>Frontend</ins>: 
-1. React.js
-> - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
-> - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
-2. `Chart.js` or `D3.js`
-> - Purpose: Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
-> - Key Features:
-> > - Chart.js: Pre-built chart types for easy implementation.
-> > - D3.js: Customizable, data-driven visuals for more complex visualizations.
-Material-UI
-Purpose: Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
-Key Features: Customizable themes, ready-to-use components like buttons, forms, and data grids.
-Axios
-Purpose: Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
-Key Features: Promise-based API, support for interceptors, easy to use for making API calls.
-React Router
-Purpose: Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
-Key Features: Declarative routing, dynamic routing, nested routes.
-Backend:
-Python (Django)
-Purpose: Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
-Key Features: Built-in admin interface, robust ORM, middleware support, Django Rest Framework (DRF) for API development.
+- Frontend Framework: `React.js`
+> > - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
+> > - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
+- Data Visualization: `Chart.js` or `D3.js`
+> - **Purpose:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
+> - **Key Features:**
+> > - `Chart.js`: Pre-built chart types for easy implementation.
+> > - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
+- Styling: `Material-UI`
+> > - Purpose: Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
+> > - Key Features: Customizable themes, ready-to-use components like buttons, forms, and data grids.
+- HTTP Requests: `Axios`
+> > - Purpose: Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
+> > - Key Features: Promise-based API, support for interceptors, easy to use for making API calls.
+- Routing: `React Router`
+> > - Purpose: Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
+> > - Key Features: Declarative routing, dynamic routing, nested routes.
+
+
+### <ins>Backend</ins>: 
+1. `Python` (`Django`)
+> - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
+> - **Key Features:** Built-in admin interface, robust ORM, middleware support, Django Rest Framework (DRF) for API development.
 PostgreSQL
 Purpose: Relational database management system for storing user data, track history, analytics results, and generated reports.
 Key Features: ACID compliance, full-text search, JSON support, scalability.
