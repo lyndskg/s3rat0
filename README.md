@@ -231,7 +231,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
 > - **Key Features:** Declarative routing, dynamic routing, nested routes.
 
-
+------- 
 ### <ins>Backend</ins>: 
 **Backend Framework:** `Python` (`Django`)
 > - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
