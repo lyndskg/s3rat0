@@ -207,15 +207,15 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <a name="tech"></a>
 ## Technologies and Programming Languages
 
-Frontend:
-React.js
-Purpose: Building a dynamic and responsive user interface for the s3rat0 dashboard.
-Key Features: Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
-Chart.js or D3.js
-Purpose: Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
-Key Features:
-Chart.js: Pre-built chart types for easy implementation.
-D3.js: Customizable, data-driven visuals for more complex visualizations.
+### <ins>Frontend</ins>: 
+1. React.js
+> - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
+> - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
+2. `Chart.js` or `D3.js`
+> - Purpose: Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
+> - Key Features:
+> > - Chart.js: Pre-built chart types for easy implementation.
+> > - D3.js: Customizable, data-driven visuals for more complex visualizations.
 Material-UI
 Purpose: Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
 Key Features: Customizable themes, ready-to-use components like buttons, forms, and data grids.
