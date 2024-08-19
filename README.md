@@ -228,22 +228,22 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ### <ins>Frontend</ins>: 
 Frontend Framework: `React.js`
-> - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
->  - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
+- **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
+- **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
 Data Visualization: `Chart.js` or `D3.js`
->   **Purpose:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
->   **Key Features:**
+- **Purpose:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
+-  **Key Features:**
 > - `Chart.js`: Pre-built chart types for easy implementation.
 > - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
 Styling: `Material-UI`
->  - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
->  - **Key Features:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
+ - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
+ - **Key Features:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
 HTTP Requests: `Axios`
->  - **Purpose:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
-> - **Key Features:** Promise-based API, support for interceptors, easy to use for making API calls.
+- **Purpose:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
+- **Key Features:** Promise-based API, support for interceptors, easy to use for making API calls.
 Routing: `React Router`
->  - **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
->  - **Key Features:** Declarative routing, dynamic routing, nested routes.
+- **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
+- **Key Features:** Declarative routing, dynamic routing, nested routes.
 
 
 ### <ins>Backend</ins>: 
