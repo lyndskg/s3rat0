@@ -1,4 +1,4 @@
-<a name="ser"></a>
+  <a name="ser"></a>
 
 <h1 align="center">s3rat0</h1>
 
@@ -324,71 +324,101 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 &nbsp; 
 
-<h1 align="center"></h1> 
+
+<p align="right">(<a href="#ser">back to top</a>)</p>
+
+
+---------------------
+
 
 ## IDEs & Editors
 _**Frontend Development:**_
 - `Visual Studio Code (VS Code)`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** Versatile editor with extensive support for `JavaScript`, `React`, `Vue.js`, and frontend technologies.
+> - **<ins>Key Features</ins>:**  Extensions for `React`, `Vue.js`, `Tailwind CSS`, `Chart.js`, and `D3.js`; integrated terminal and debugging.
 
 - `WebStorm`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** Full-featured IDE for `JavaScript`, including `React` and `Vue.js`.
+> - **<ins>Key Features</ins>:** Advanced code analysis, refactoring, and debugging tools.
 
 
 _**Backend Development:**_
 - `PyCharm`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** IDE specifically designed for `Python` development, including `Django`.
+> - **<ins>Key Features</ins>:** Integrated tools for `Django`, `Python` debugging, and database management.
 
 - `Visual Studio Code (VS Code)`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** Can also be used for `Python` and `Django` development with appropriate extensions.
+> - **<ins>Key Features</ins>:** `Python` extensions, integrated terminal, and debugging support.
+
 - `Django Admin Interface`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:**  Built-in tool for managing `Django` applications and databases.
+> - **<ins>Key Features</ins>:** User-friendly interface for managing models and data.
+
 
 
 
 _**Database Management:**_
 - `pgAdmin`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** GUI for managing `PostgreSQL` databases.
+> - **<ins>Key Features</ins>:**  Query tool, data visualization, and database management.
 
 - `DBeaver`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** Universal database management tool that supports `PostgreSQL` and `SQLite`.
+> - **<ins>Key Features</ins>:** Database browsing, `SQL` execution, and data visualization.
 
 
 
 _**Version Control & Collaboration:**_
 - `Git`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** Version control for tracking changes and collaboration.
+> - **<ins>Key Features</ins>:** Branching, merging, and commit history.
 
 - `GitHub`
-> - **Purpose:**
-> - **<ins>Key Features</ins>:**
+> - **Purpose:** Repository hosting and collaboration.
+> - **<ins>Key Features</ins>:** Pull requests, code reviews, and issue tracking.
 
 - `GitKraken`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:**  Git client with a graphical interface for managing repositories.
+> - **<ins>Key Features</ins>:** Visual interface for `Git` operations, merge conflict resolution.
+
 
 **Containerization & Deployment:**
 - `Docker Desktop`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
-
+> - **<ins>Purpose</ins>:** Managing `Docker` containers and images.
+> - **<ins>Key Features</ins>:** Easy container management, integration with `Docker Hub`.
+ 
 - `Heroku CLI`
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** Command-line interface for interacting with `Heroku`.
+> - **<ins>Key Features</ins>:** Deployment, scaling, and log management.
 
 - `Kubernetes` (Optional)
-> - **<ins>Purpose</ins>:**
-> - **<ins>Key Features</ins>:**
+> - **<ins>Purpose</ins>:** Container orchestration for managing deployments and scaling.
+> - **<ins>Key Features</ins>:** Automated deployment, scaling, and operations of application containers.
 
-   
+
+
+**Additional Tools:**
+- `Postman`
+> - **<ins>Purpose</ins>:** API development and testing.
+> - **<ins>Key Features</ins>:** API requests, response validation, and documentation.
+
+
+- `Webpack`
+> - **<ins>Purpose</ins>:** Module bundler for `JavaScript` applications.
+> - **<ins>Key Features</ins>:** Asset management, module bundling, and code splitting.
+
+- `ESLint` & `Prettier`
+> - **<ins>Purpose</ins>:**  Code quality and formatting tools.
+> - **<ins>Key Features</ins>:**  Code linting and auto-formatting for `JavaScript` and `Python`.
+
+- Pre-commit Hooks (_Optional_)
+> - **<ins>Purpose</ins>:** Running checks before commits.
+> - **<ins>Key Features</ins>:** : Code linting, tests, and formatting enforcement.
+
+
+&nbsp;
+
 <p align="right">(<a href="#ser">back to top</a>)</p>
 
 ---------------------
