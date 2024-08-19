@@ -219,13 +219,15 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > > - `Chart.js`: Pre-built chart types for easy implementation.
 > > - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
 
-Styling: `Material-UI`
+**Styling:** `Material-UI`
  - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
  - **Key Features:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
-HTTP Requests: `Axios`
+
+**HTTP Requests:** `Axios`
 - **Purpose:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
 - **Key Features:** Promise-based API, support for interceptors, easy to use for making API calls.
-Routing: `React Router`
+
+**Routing:** `React Router`
 - **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
 - **Key Features:** Declarative routing, dynamic routing, nested routes.
 
