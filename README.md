@@ -142,9 +142,9 @@
 This tool provides deep insights by analyzing historical performance data (including most played tracks, average BPM, key trends, and more to help DJs understand their track selections, BPM ranges, key transitions, and overall performance trends.
 
 
+
 `s3rat0` is aimed towards helping DJs refine their craft, optimize their setlist(s), understand audience preference, and make data-driven decisions that improve their overall performance and enhance audience engagement. 
 
-&nbsp;
 
 ### <ins>Target Audience</ins>:
 - **Professional DJs:** Looking to optimize their performances and gain insights into their DJing patterns.
