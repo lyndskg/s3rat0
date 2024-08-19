@@ -204,7 +204,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 ## Technologies and Programming Languages
 
 
-### <ins>Frontend</ins>: 
+### i. <ins>Frontend</ins>: 
 **Frontend Framework:** `React.js`
 > - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
 > - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
@@ -229,7 +229,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ------- 
 
-### <ins>Backend</ins>: 
+### ii. <ins>Backend</ins>: 
 **Backend Framework:** `Python` (`Django`)
 > - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
 > - **Key Features:** Built-in admin interface, robust ORM, middleware support, Django Rest Framework (DRF) for API development.
