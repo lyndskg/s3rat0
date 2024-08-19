@@ -220,16 +220,16 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > > - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
 
 **Styling:** `Material-UI`
- - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
- - **Key Features:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
+> - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
+> - **Key Features:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
 
 **HTTP Requests:** `Axios`
-- **Purpose:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
-- **Key Features:** Promise-based API, support for interceptors, easy to use for making API calls.
+> - **Purpose:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
+> - **Key Features:** Promise-based API, support for interceptors, easy to use for making API calls.
 
 **Routing:** `React Router`
-- **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
-- **Key Features:** Declarative routing, dynamic routing, nested routes.
+> - **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
+> - **Key Features:** Declarative routing, dynamic routing, nested routes.
 
 
 ### <ins>Backend</ins>: 
@@ -270,49 +270,50 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Key Features:** Git-based deployment, managed databases, environment variables, buildpacks for Python.
 
 **Containerization:** `Docker` 
-> - Purpose: Containerization of the application for consistent deployment across various environments, making it easier to manage dependencies and configurations.
-> - Key Features: Container orchestration, portability, isolation of services.
+> - **Purpose:** Containerization of the application for consistent deployment across various environments, making it easier to manage dependencies and configurations.
+> - **Key Features:** Container orchestration, portability, isolation of services.
 
 **Continuous Integration/Continuous Deployment (CI/CD):** `GitHub Actions`
-> - Purpose: Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate testing, build, and deployment processes.
-> - Key Features: Workflow automation, integration with GitHub repositories, support for multiple languages and frameworks.
+> - **Purpose:** Continuous Integration/Continuous Deployment (CI/CD) pipeline to automate testing, build, and deployment processes.
+> - **Key Features:** Workflow automation, integration with GitHub repositories, support for multiple languages and frameworks.
 
 ### <ins>Security</ins>:
 **Authenticaiton & Authorization:** `Django Allauth`
-> - Purpose: Handling user authentication, registration, and account management, including social authentication if needed.
-> - Key Features: Pre-built views and forms for user authentication, secure password management, social account support.
+> - **Purpose:** Handling user authentication, registration, and account management, including social authentication if needed.
+> - **Key Features:** Pre-built views and forms for user authentication, secure password management, social account support.
 
 **Data Encryption:** `SSL/TLS`
-> - Purpose: Ensuring secure communication between the client and server by encrypting data in transit.
-> - Key Features: Data encryption, secure transmission, certificate management.
+> - **Purpose:** Ensuring secure communication between the client and server by encrypting data in transit.
+> - **Key Features:** Data encryption, secure transmission, certificate management.
 
 **Configuration Management:** Environment Variables (`dotenv`)
-> - Purpose: Managing sensitive information like API keys, database credentials, and secret keys securely without hardcoding them into the application.
-> - Key Features: Environment-specific configuration, improved security practices.
+> - **Purpose:** Managing sensitive information like API keys, database credentials, and secret keys securely without hardcoding them into the application.
+> - **Key Features:** Environment-specific configuration, improved security practices.
 
 
 ### <ins>Monitoring & Analytics</ins>:
 **Error Tracking & Performance Monitoring:** `Sentry`
-> - Purpose: Error tracking and performance monitoring to identify and resolve issues in the s3rat0 application.
-> - Key Features: Real-time alerts, performance monitoring, integration with Django and React.
+> - **Purpose:** Error tracking and performance monitoring to identify and resolve issues in the s3rat0 application.
+> - **Key Features:** Real-time alerts, performance monitoring, integration with Django and React.
 
 **Metrics & Logging (Optional):** `Grafana`
-> - Purpose: Visualizing metrics and logs to monitor the health and performance of the s3rat0 application.
-> - Key Features: Custom dashboards, integration with various data sources, real-time monitoring.
+> - **Purpose:** Visualizing metrics and logs to monitor the health and performance of the s3rat0 application.
+> - **Key Features:** Custom dashboards, integration with various data sources, real-time monitoring.
 
 **Platform Metrics:** `Heroku Metrics`
-> - Purpose: Monitoring application performance, response times, and resource usage directly within the Heroku dashboard.
-> - Key Features: Built-in application metrics, auto-scaling triggers, alerts and notifications.
+> - **Purpose:** Monitoring application performance, response times, and resource usage directly within the Heroku dashboard.
+> - **Key Features:** Built-in application metrics, auto-scaling triggers, alerts and notifications.
 
 
 ### <ins>Version Control</ins>: 
 `Git` & `GitHub`
-Purpose: Version control for tracking changes, collaborating with other developers, and maintaining a history of the project’s development.
-Key Features: Branching, pull requests, code review, issue tracking.
+> - **Purpose:** Version control for tracking changes, collaborating with other developers, and maintaining a history of the project’s development.
+> - **Key Features:** Branching, pull requests, code review, issue tracking.
 
 
 &nbsp; 
 &nbsp;
+
 
 ### <ins>IDEs & Editors</ins>
 **Frontend Development:**
