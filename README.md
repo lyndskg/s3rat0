@@ -229,6 +229,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 &nbsp;
 
+
 ### II. <ins>Backend</ins>: 
 **Backend Framework:** `Python` (`Django`)
 > - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
@@ -242,7 +243,6 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > > - `PostgreSQL`: ACID compliance, full-text search, `JSON` support, scalability.
   > > - Advanced indexing, robust transaction support, data integrity, and security features.
 > >   - `SQLite`: File-based storage, no server setup required, suitable for small-scale data during development.
-
 
 **Background Tasks (Optional):** `Celery with Redis` 
 > - **Purpose:** Handling background tasks like report generation, data processing, and sending notifications.
@@ -264,7 +264,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 
-### <ins>Deployment</ins>: 
+### III. <ins>Deployment</ins>: 
 **Platform-as-a-Service (PaaS):** `Heroku`
 > - **Purpose:** Platform-as-a-Service (PaaS) for deploying the `s3rat0` application, offering easy integration with `PostgreSQL` and automated scaling.
 > - **Key Features:** `Git`-based deployment, managed databases, environment variables, buildpacks for `Python`.
@@ -280,7 +280,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 
-### <ins>Security</ins>:
+### IV. <ins>Security</ins>:
 **Authenticaiton & Authorization:** `Django Allauth`
 > - **Purpose:** Handling user authentication, registration, and account management, including social authentication if needed.
 > - **Key Features:** Pre-built views and forms for user authentication, secure password management, social account support.
@@ -297,7 +297,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 
-### <ins>Monitoring & Analytics</ins>:
+### V. <ins>Monitoring & Analytics</ins>:
 **Error Tracking & Performance Monitoring:** `Sentry`
 > - **Purpose:** Error tracking and performance monitoring to identify and resolve issues in the `s3rat0` application.
 > - **Key Features:** Real-time alerts, performance monitoring, integration with `Django` and `React`.
@@ -314,7 +314,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 
 
-### <ins>Version Control</ins>: 
+### VI. <ins>Version Control</ins>: 
 `Git` & `GitHub`
 > - **Purpose:** Version control for tracking changes, collaborating with other developers, and maintaining a history of the project’s development.
 > - **Key Features:** Branching, pull requests, code review, issue tracking.
