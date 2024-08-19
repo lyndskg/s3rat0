@@ -194,14 +194,6 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 ---------------------
 
-<a name="curr"></a>
-### <ins>Current Notes and/or Issues</ins>: 
-
-   
-<p align="right">(<a href="#bs">back to top</a>)</p>
-
----------------------
-
 <a name="tech"></a>
 ## Technologies and Programming Languages
 
@@ -339,6 +331,14 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 
 &nbsp;
+
+---------------------
+
+<a name="curr"></a>
+### <ins>Current Notes and/or Issues</ins>: 
+
+   
+<p align="right">(<a href="#bs">back to top</a>)</p>
 
 ---------------------
 
