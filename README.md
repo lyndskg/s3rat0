@@ -324,7 +324,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 <h1 align="center"></h1> 
 
-### <ins>IDEs & Editors</ins>
+## IDEs & Editors
 **Frontend Development:**
 - `Visual Studio Code (VS Code)`
 > - **Purpose:**
