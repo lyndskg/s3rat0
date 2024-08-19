@@ -158,8 +158,6 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 
----------------------
-
 <a name="feat"></a>
 ### <ins>Key Features</ins>:
 
@@ -232,6 +230,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Key Features:** Declarative routing, dynamic routing, nested routes.
 
 ------- 
+
 ### <ins>Backend</ins>: 
 **Backend Framework:** `Python` (`Django`)
 > - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
