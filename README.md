@@ -148,6 +148,16 @@ This tool provides deep insights by analyzing historical performance data (inclu
 &nbsp;
 
 
+
+> ### <ins>Target Audience</ins>:
+> - **Professional DJs** _looking to optimize their performances and gain insights into their DJing patterns._
+> - **Aspiring DJs** _interested in understanding and improving their track selection, transitions, and overall set composition._
+> - **Music Producers** _who also DJ and want to analyze how their tracks perform in live settings._
+> - **Event Organizers** _who want to track the success of DJ performances and understand audience preferences._
+
+
+&nbsp;
+
 <a name="feat"></a>
 ### <ins>Key Features</ins>:
 
@@ -183,14 +193,6 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 
 &nbsp;
-
-
-> ### <ins>Target Audience</ins>:
-> - **Professional DJs** _looking to optimize their performances and gain insights into their DJing patterns._
-> - **Aspiring DJs** _interested in understanding and improving their track selection, transitions, and overall set composition._
-> - **Music Producers** _who also DJ and want to analyze how their tracks perform in live settings._
-> - **Event Organizers** _who want to track the success of DJ performances and understand audience preferences._
-
 
 
 <p align="right">(<a href="#bs">back to top</a>)</p>
