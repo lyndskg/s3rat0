@@ -205,25 +205,25 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 
 ### I. <ins>Frontend</ins>: 
-**Frontend Framework:** `React.js`
+**_Frontend Framework_:** `React.js`
 > - **Purpose:** Building a dynamic and responsive user interface for the `s3rat0` dashboard.
 > - **Key Features:** Component-based architecture, virtual DOM for efficient rendering, extensive ecosystem of libraries and tools.
 
-**Data Visualization:** `Chart.js` or `D3.js`
+**_Data Visualization_:** `Chart.js` or `D3.js`
 > - **Purpose:** Creating interactive data visualizations to display analytics such as track history, BPM analysis, and key distribution.
 > -  **Key Features:**
 > > - `Chart.js`: Pre-built chart types for easy implementation.
 > > - `D3.js`: Customizable, data-driven visuals for more complex visualizations.
 
-**Styling:** `Material-UI`
+**_Styling_:** `Material-UI`
 > - **Purpose:** Providing a modern, clean, and responsive design using pre-built React components that follow Material Design principles.
 > - **Key Features:** Customizable themes, ready-to-use components like buttons, forms, and data grids.
 
-**HTTP Requests:** `Axios`
+**_HTTP Requests_:** `Axios`
 > - **Purpose:** Handling HTTP requests from the frontend to the backend for tasks such as uploading files, fetching analytics data, and generating reports.
 > - **Key Features:** Promise-based API, support for interceptors, easy to use for making API calls.
 
-**Routing:** `React Router`
+**_Routing_:** `React Router`
 > - **Purpose:** Managing navigation within the s3rat0 web application, allowing users to move between different pages such as the dashboard, upload page, and reports.
 > - **Key Features:** Declarative routing, dynamic routing, nested routes.
 
@@ -231,11 +231,11 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 
 ### II. <ins>Backend</ins>: 
-**Backend Framework:** `Python` (`Django`)
+**_Backend Framework_:** `Python` (`Django`)
 > - **Purpose:** Serving as the main backend framework to handle user authentication, process uploaded Serato history files, manage data storage, and serve API requests to the frontend.
 > - **Key Features:** Built-in admin interface, robust ORM, middleware support, Django Rest Framework (DRF) for API development.
 
-**Database:** `PostgreSQL` and `SQLite` (For Development)
+**_Database_:** `PostgreSQL` and `SQLite` (For Development)
 > - **Purpose:** Relational database management systems for storing user data, track history, analytics results, and generated reports.
   > - As the primary database, `PostgreSQL` will handle the relational data model required for user data, track history, and analytics storage.
 >   - `SQLite` is a lightweight database option for local development and testing.
@@ -244,19 +244,19 @@ This tool provides deep insights by analyzing historical performance data (inclu
   > > - Advanced indexing, robust transaction support, data integrity, and security features.
 > >   - `SQLite`: File-based storage, no server setup required, suitable for small-scale data during development.
 
-**Background Tasks (Optional):** `Celery with Redis` 
+**_Background Tasks _(Optional):** `Celery with Redis` 
 > - **Purpose:** Handling background tasks like report generation, data processing, and sending notifications.
 > - **Key Features**: Distributed task queue, support for real-time operations, fault tolerance.
 
-**API Development:** `Django Rest Framework (DRF)`
+**_API Development_:** `Django Rest Framework (DRF)`
 > - **Purpose:** Building RESTful APIs to handle communication between the frontend and backend, such as file uploads, data retrieval, and report generation.
 > - **Key Features**: Serialization, viewsets, authentication and permissions, browsable API.
 
-**Application Server:** `Gunicorn`
+**_Application Server_:** `Gunicorn`
 > - **Purpose:** Serving the `Django` application in a production environment, acting as the application server.
 > - **Key Features:** Pre-fork worker model, easy integration with `Nginx`, reliable performance.
 
-**Reverse Proxy Server:** `Nginx`
+**_Reverse Proxy Server:_** `Nginx`
 > - **Purpose:** Acting as a reverse proxy server to serve static files, manage incoming HTTP requests, and improve security and performance.
 > - **Key Features:** Load balancing, SSL/TLS termination, caching.
 
@@ -285,7 +285,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Purpose:** Handling user authentication, registration, and account management, including social authentication if needed.
 > - **Key Features:** Pre-built views and forms for user authentication, secure password management, social account support.
 
-**Data Encryption:** `SSL/TLS`
+**_Data Encryption_:** `SSL/TLS`
 > - **Purpose:** Ensuring secure communication between the client and server by encrypting data in transit.
 > - **Key Features:** Data encryption, secure transmission, certificate management.
 
@@ -298,15 +298,15 @@ This tool provides deep insights by analyzing historical performance data (inclu
 
 
 ### V. <ins>Monitoring & Analytics</ins>:
-**Error Tracking & Performance Monitoring:** `Sentry`
+**_Error Tracking & Performance Monitoring_:** `Sentry`
 > - **Purpose:** Error tracking and performance monitoring to identify and resolve issues in the `s3rat0` application.
 > - **Key Features:** Real-time alerts, performance monitoring, integration with `Django` and `React`.
 
-**Metrics & Logging (Optional):** `Grafana`
+**_Metrics & Logging_ (Optional):** `Grafana`
 > - **Purpose:** Visualizing metrics and logs to monitor the health and performance of the `s3rat0` application.
 > - **Key Features:** Custom dashboards, integration with various data sources, real-time monitoring.
 
-**Platform Metrics:** `Heroku Metrics`
+**_Platform Metrics_:** `Heroku Metrics`
 > - **Purpose:** Monitoring application performance, response times, and resource usage directly within the `Heroku` dashboard.
 > - **Key Features:** Built-in application metrics, auto-scaling triggers, alerts and notifications.
 
@@ -325,7 +325,7 @@ This tool provides deep insights by analyzing historical performance data (inclu
 <h1 align="center"></h1> 
 
 ## IDEs & Editors
-**Frontend Development:**
+_**Frontend Development:**_
 - `Visual Studio Code (VS Code)`
 > - **Purpose:**
 > - **Key Features:**
@@ -334,7 +334,8 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Purpose:**
 > - **Key Features:**
 
-**Backend Development:**
+
+_**Backend Development:**_
 - `PyCharm`
 > - **Purpose:**
 > - **Key Features:**
@@ -348,7 +349,8 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Key Features:**
 
 
-**Database Management:**
+
+_**Database Management:**_
 - `pgAdmin`
 > - **Purpose:**
 > - **Key Features:**
@@ -358,7 +360,8 @@ This tool provides deep insights by analyzing historical performance data (inclu
 > - **Key Features:**
 
 
-**Version Control & Collaboration:**
+
+_**Version Control & Collaboration:**_
 - `Git`
 > - **Purpose:**
 > - **Key Features:**
